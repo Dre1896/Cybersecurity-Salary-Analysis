@@ -49,5 +49,10 @@ Utilizes advanced visualization tools like Plotly to represent data through inte
 - Statistical Analysis
 - Pandas
 
+## 🦾Future Work
+- Expand Data Sources: To enhance the accuracy and robustness of the analysis, additional data sources could be integrated, such as real-time job market data and more granular location-based salary information.
+- Predictive Analytics: Implement machine learning models to predict future salary trends based on current and historical data.
+- Real-Time Dashboard: Develop a real-time interactive dashboard that updates with the latest job openings and salary trends in the Cybersecurity field.
+
 # Please Click the link below to view dynamic data visualization
 https://nbviewer.org/github/Dre1896/Cybersecurity-Salary-Analysis/blob/main/Cyber_Salary_Analysis.ipynb
